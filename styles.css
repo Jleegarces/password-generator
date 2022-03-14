@@ -35,11 +35,12 @@ body {
   background-color: #5DEF92;
   color: rgb(129, 129, 129);
   border: none;
-  border-radius: 5px;
-  height: 30px;
-  width: 150px;
+  border-radius: 10px;
+  height: 40px;
+  width: 170px;
   cursor: pointer;
   margin-bottom: 20px;
+  font-weight: 800;
 }
 #top-box button:hover {
   background-color: #44b36c;
